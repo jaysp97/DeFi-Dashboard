@@ -1,0 +1,1 @@
+export { default as RutgersLogo } from './RutgersLogo';
